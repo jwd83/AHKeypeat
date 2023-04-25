@@ -1,6 +1,8 @@
 # AHKeypeat
 Collection of my auto hotkey scripts I use to spam action buttons in MMOs. 
 
+Credit to [Kripparrian](https://www.youtube.com/watch?v=gcewYKebsx4) for introducing me to this idea.
+
 ## spam1.ahk
 
 This will repeatedly spam keys 1 through 6 while they are being down every 100ms
